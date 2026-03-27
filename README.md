@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">A fullsrack developer from Argentina</h3>
+<h3 align="center">A fullstack developer from Argentina</h3>
 
 - 🌱 I’m currently learning **react.js**
 
